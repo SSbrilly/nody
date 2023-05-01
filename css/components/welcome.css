@@ -1,16 +1,23 @@
+.welcome {
+  background-image: url("../../assets/background1.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
 .welcome .welcome_content {
-  position: absolute;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   padding: 180px 15px 180px 15px;
-  margin: 0 221.5px;
+  margin: 0 250px;
 }
 
 .welcome_content .welcome_txt {
   font-weight: 100;
-  color: rgb(73, 73, 73);
+  color: rgb(59, 59, 59);
 }
 
 .welcome_content .welcome_txt h1 {
@@ -51,7 +58,7 @@
 }
 
 .welcome_content .welcome_txt button img {
-    width: 2rem;
+  width: 2rem;
 }
 
 .welcome_content .welcome_img img {
