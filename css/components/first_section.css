@@ -1,0 +1,32 @@
+.about {
+  padding: 0 80px;
+}
+
+.about .about_container {
+  padding: 0 15px;
+  margin: 0 221.5px;
+}
+
+.about .about_container .about_txt {
+  margin: 0 -15px;
+}
+
+.about .about_container .about_txt h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(59, 59, 59);
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.about .about_container .about_txt p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 180px;
+  color: rgb(163, 163, 163);
+  line-height: 1.8;
+}
