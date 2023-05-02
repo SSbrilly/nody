@@ -87,16 +87,16 @@
   }
 }
 
-@media screen and (max-width: 976px) {
+@media screen and (max-width: 991px) {
   .navbar {
     display: flex;
     align-items: center;
     justify-content: left;
-    padding: 3px 0 6px 90px;
+    padding: 16px 0 6px 130px;
   }
 
   .navbar .nav_left .logo img {
-    width: 4.8rem;
+    width: 7.5rem;
   }
 
   .navbar .nav_left .menu,
@@ -112,11 +112,11 @@
     display: flex;
     align-items: center;
     justify-content: left;
-    padding: 5px 0 0 24px;
+    padding: 10px 36px;
   }
 
   .navbar .nav_left .logo img {
-    width: 4.9rem;
+    width: 6rem;
   }
 
   .navbar .nav_left .menu,
